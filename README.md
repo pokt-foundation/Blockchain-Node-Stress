@@ -1,4 +1,5 @@
 # Stress Testing for EVM based blockchains
+This tool is made to stress test blockchain nodes. Given a Hardware, we can say how much throughput it can handle before the performance starts degrading or goes completely out of sync. 
 
 ### Author
 - __[Shai Sundar](https://github.com/shaisundar)__
